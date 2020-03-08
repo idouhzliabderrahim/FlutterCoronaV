@@ -1,4 +1,4 @@
-# firebase_showcase
+# CoronaV Flutter & Dart app
 
 A new Flutter project.
 
