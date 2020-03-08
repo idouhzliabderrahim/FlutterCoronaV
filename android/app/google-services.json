@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806597515369",
+    "firebase_url": "https://coronav-fcf4e.firebaseio.com",
+    "project_id": "coronav-fcf4e",
+    "storage_bucket": "coronav-fcf4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806597515369:android:dbf2abb7bb6667536c2af8",
+        "android_client_info": {
+          "package_name": "com.coronav.info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806597515369-48r4cnp9939cbuchj9s0755i85j4juig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo7R9oVPbJNG3sgvXMzU6xGhWUperHzNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806597515369-48r4cnp9939cbuchj9s0755i85j4juig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
